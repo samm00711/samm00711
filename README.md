@@ -1,5 +1,8 @@
 💫 About Me:
-🌟 Hey there! I’m Samriddhi Chandak 🚀<br>A tech enthusiast, community builder, and people-first leader who's always ready to take the next big leap! Whether it's writing clean code in Python and C, managing a dynamic team, or building powerful connections through CRM tools — I’m all in! 💡<br><br>🎮 Coordinator @Vyom Game Jam 2025 – where creativity meets code<br>🤝 Sponsors Outreach Lead @Dev Sync 2025 – fueling India’s national open-source wave<br>🎯 Microsoft Learn Student Ambassador @RCET Bhilai – Logistics & Planning Team<br><br>I believe great things happen when passion meets purpose. From brainstorming wild ideas to executing them with precision, I thrive in spaces where collaboration, creativity, and community come together.<br><br>💬 Fluent in teamwork, driven by purpose, and powered by coffee and curiosity☕<br><br>Let’s connect, collaborate, and build something amazing — one repo at a time! 💻✨<br><br>
+
+🌟 Hey there! I’m Samriddhi Chandak 🚀<br>A tech enthusiast, community builder, and people-first leader who's always ready to take the next big leap! Whether it's writing clean code in Python and C, managing a dynamic team, or building powerful connections through CRM tools — I’m all in! 💡<br><br>🎮 Coordinator @Vyom Game Jam 2025 – where creativity meets code.<br>🤝
+Sponsors Outreach Lead @Dev Sync 2025 – fueling India’s national open-source wave.<br>
+🎯 Microsoft Learn Student Ambassador @RCET Bhilai – Logistics & Planning Team.<br><br>I believe great things happen when passion meets purpose. From brainstorming wild ideas to executing them with precision, I thrive in spaces where collaboration, creativity, and community come together.<br><br>💬 Fluent in teamwork, driven by purpose, and powered by coffee and curiosity☕<br><br>Let’s connect, collaborate, and build something amazing — one repo at a time! 💻✨<br><br>
 
 
 ## 🌐 Socials:
